@@ -1,6 +1,6 @@
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
 
-# Paragraph Tool for Editor.js
+# Paragraph Tool for Editor.js editing by kasuta
 
 Basic text Tool for the [Editor.js](https://ifmo.su/editor).
 
